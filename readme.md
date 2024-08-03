@@ -32,7 +32,7 @@ The GitHub Student Developer Pack offers a variety of free tools and services fo
 
 3. **Apply for the Pack**:
 
-   - After acquiring your .edu email, visit the [GitHub Student Developer Pack application page](https://education.github.com/pack) to apply.
+   - After acquiring your .edu email, visit the [GitHub Student Developer Pack application page](https://github.com/education) to apply.
    - Use the .edu email for verification during the application process.
 
 4. **Explore and Use the Tools**:
